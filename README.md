@@ -6,7 +6,7 @@
 
 **Sentinel and Defender for Office 365 investigation of a blocked phishing message**
 
-[![Live Case Study](https://img.shields.io/badge/Live%20Case%20Study-Open-22c55e?style=for-the-badge)](https://grhmmckean33.github.io/soc-email-spf-dkim-phishing-investigation/) [![PDF Report](https://img.shields.io/badge/PDF%20Report-View-dc2626?style=for-the-badge)](report/SOC_Investigation_Report_Email_SPF_DKIM.pdf)
+[![Live Case Study](https://img.shields.io/badge/Live%20Case%20Study-Open-22c55e?style=for-the-badge)](https://grhmmckean33.github.io/Email-SPF-DKIM-Phishing-Investigation) [![PDF Report](https://img.shields.io/badge/PDF%20Report-View-dc2626?style=for-the-badge)](report/SOC_Investigation_Report_Email_SPF_DKIM.pdf)
 
 </div>
 
