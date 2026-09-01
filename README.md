@@ -20,7 +20,7 @@ An email-security investigation that moved beyond the Sentinel alert title to va
 | Assessment | **True Positive - Successfully Prevented** |
 | Environment | Maple Tax Solutions (MTS) |
 | MITRE ATT&CK | T1566 - Phishing |
-| Full case study | **[View GitHub Pages site](https://grhmmckean33.github.io/soc-email-spf-dkim-phishing-investigation/)** |
+| Full case study | **[View GitHub Pages site](https://grhmmckean33.github.io/Email-SPF-DKIM-Phishing-Investigation/)** |
 | Investigation report | **[Open PDF](report/SOC_Investigation_Report_Email_SPF_DKIM.pdf)** |
 
 ## Key findings
